@@ -1,0 +1,8 @@
+{
+    "uuid": "example@ersoykardesler.net",
+    "name": "Ersoy Kardesler Example GNOME Extension",
+    "description": "Example description is here.",
+    "shell-version": [ "3.38" ],
+    "url": "https://ersoykardesler.net",
+    "version": 1
+}
