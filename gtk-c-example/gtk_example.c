@@ -1,3 +1,7 @@
+// An empty GTK+ window example written with C
+// Written by Erdem Ersoy
+// Reference: https://docs.gtk.org/gtk3/getting_started.html
+
 #include <gtk/gtk.h>
 
 static void activate(GtkApplication * app, gpointer user_data)
